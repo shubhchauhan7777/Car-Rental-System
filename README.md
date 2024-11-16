@@ -8,6 +8,6 @@ Return a Car: Return rented cars and update their availability smoothly.
 
 Car Management: Manage car details, including brands, models, and prices.
 
-Get Confirmation Slip: Receive a confirmation slip for each rental, detailing customer information and rental duration. 
+Get Confirmation Slip: Receive a confirmation slip for each rental, detailing customer information and rental duration.  
 
 
